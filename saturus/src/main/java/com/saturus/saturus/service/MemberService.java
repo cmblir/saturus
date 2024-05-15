@@ -2,6 +2,7 @@ package com.saturus.saturus.service;
 
 import com.saturus.saturus.domain.Member;
 import com.saturus.saturus.repository.MemberRepository;
+import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;

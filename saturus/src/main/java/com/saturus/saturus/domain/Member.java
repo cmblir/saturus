@@ -6,7 +6,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import org.hibernate.annotations.ValueGenerationType;
 
-@Entity
+@Entity(name="member")
 public class Member {
 
     @Id

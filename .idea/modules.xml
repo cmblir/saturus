@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/saturus.iml" filepath="$PROJECT_DIR$/.idea/saturus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/saturus.saturus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/saturus.saturus.main.iml" />
     </modules>
   </component>
 </project>
