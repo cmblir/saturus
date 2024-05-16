@@ -1,9 +1,6 @@
 package com.saturus.saturus.repository;
 
 import com.saturus.saturus.domain.Member;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Repository;
-
 import java.util.List;
 import java.util.Optional;
 
