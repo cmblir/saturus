@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="saturus.saturus.main~1" target="17" />
-      <module name="saturus.saturus.test~1" target="17" />
+      <module name="saturus.saturus.main" target="17" />
+      <module name="saturus.saturus.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
